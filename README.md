@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Deniz Kaya
 
-<!--
-**Denizkaya392/Denizkaya392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance web designer and e-commerce developer. I build clean, responsive websites and simple web-based tools for small businesses.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I use:
+- HTML / CSS / JavaScript
+- WordPress / WooCommerce / Shopify
+- Tailwind / Bootstrap
+- Basic PHP & Python for scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Recent Work:
+- Portfolio websites
+- E-commerce setup and automation
+- Small admin panels
+- Custom frontend UI/UX
+
+📫 Contact: denizkaya392@gmail.com  
+🌐 Portfolio: [LinkedIn](https://www.linkedin.com/in/deniz-kaya-655aa620a/) | [GitHub](https://github.com/Denizkaya392)
